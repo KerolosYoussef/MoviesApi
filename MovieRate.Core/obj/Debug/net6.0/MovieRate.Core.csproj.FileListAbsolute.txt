@@ -1,0 +1,12 @@
+C:\Projects\MovieRate\MovieRate.Core\bin\Debug\net6.0\MovieRate.Core.deps.json
+C:\Projects\MovieRate\MovieRate.Core\bin\Debug\net6.0\MovieRate.Core.dll
+C:\Projects\MovieRate\MovieRate.Core\bin\Debug\net6.0\MovieRate.Core.pdb
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\MovieRate.Core.csproj.AssemblyReference.cache
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\MovieRate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\MovieRate.Core.AssemblyInfoInputs.cache
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\MovieRate.Core.AssemblyInfo.cs
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\MovieRate.Core.csproj.CoreCompileInputs.cache
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\MovieRate.Core.dll
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\refint\MovieRate.Core.dll
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\MovieRate.Core.pdb
+C:\Projects\MovieRate\MovieRate.Core\obj\Debug\net6.0\ref\MovieRate.Core.dll

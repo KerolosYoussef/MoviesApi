@@ -1,0 +1,17 @@
+C:\Projects\MovieRate\MovieRate.Infrastructure\bin\Debug\net6.0\MovieRate.Infrastructure.deps.json
+C:\Projects\MovieRate\MovieRate.Infrastructure\bin\Debug\net6.0\MovieRate.Infrastructure.runtimeconfig.json
+C:\Projects\MovieRate\MovieRate.Infrastructure\bin\Debug\net6.0\MovieRate.Infrastructure.dll
+C:\Projects\MovieRate\MovieRate.Infrastructure\bin\Debug\net6.0\MovieRate.Infrastructure.pdb
+C:\Projects\MovieRate\MovieRate.Infrastructure\bin\Debug\net6.0\MovieRate.Core.dll
+C:\Projects\MovieRate\MovieRate.Infrastructure\bin\Debug\net6.0\MovieRate.Core.pdb
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.AssemblyInfo.cs
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.csproj.CopyComplete
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.dll
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\refint\MovieRate.Infrastructure.dll
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.pdb
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\MovieRate.Infrastructure.genruntimeconfig.cache
+C:\Projects\MovieRate\MovieRate.Infrastructure\obj\Debug\net6.0\ref\MovieRate.Infrastructure.dll

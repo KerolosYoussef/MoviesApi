@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRate.API", "MovieRate.API\MovieRate.API.csproj", "{B40BAD1C-54C6-4AA5-AF0C-6561864EB76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRate.Infrastructure", "MovieRate.Infrastructure\MovieRate.Infrastructure.csproj", "{B1F21FAF-69A5-4DE0-86BF-56E775362585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRate.Core", "MovieRate.Core\MovieRate.Core.csproj", "{19610FE8-2CA5-48BA-AB25-68B4DB6BD08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40BAD1C-54C6-4AA5-AF0C-6561864EB76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40BAD1C-54C6-4AA5-AF0C-6561864EB76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40BAD1C-54C6-4AA5-AF0C-6561864EB76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40BAD1C-54C6-4AA5-AF0C-6561864EB76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F21FAF-69A5-4DE0-86BF-56E775362585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F21FAF-69A5-4DE0-86BF-56E775362585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F21FAF-69A5-4DE0-86BF-56E775362585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F21FAF-69A5-4DE0-86BF-56E775362585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19610FE8-2CA5-48BA-AB25-68B4DB6BD08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19610FE8-2CA5-48BA-AB25-68B4DB6BD08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19610FE8-2CA5-48BA-AB25-68B4DB6BD08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19610FE8-2CA5-48BA-AB25-68B4DB6BD08D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
